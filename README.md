@@ -17,4 +17,5 @@ Useful notes for pursing Ph.D.
 * [Presentation Review Guidelines](https://www.ics.uci.edu/~kay/courses/139w/presentationreview.html)
 * [What I Wish I Had Known Early in Graduate School but Didn’t](http://idm-lab.org/advice.html)
 * [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://icrrd.com/media/01-11-2020-212827The%207%20Habits%20of%20Highly%20Effective%20People.pdf)
-* 
+* [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+
