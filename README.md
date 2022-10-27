@@ -25,4 +25,5 @@ Useful notes for pursing Ph.D.
 * [How to Write a Machine Learning Paper for (not so) Dummies](https://icml.cc/Conferences/2002/craft.html)
 * [How to Read a Paper](https://dl.acm.org/doi/pdf/10.1145/1273445.1273458)
 * [On writing](http://users.ece.utexas.edu/~patt/writing/)
-* [How To Write A Research Paper In Machine Learning](https://grigorisg9gr.github.io/machine%20learning/research%20paper/how-to-write-a-research-paper-in-machine-learning/)
+* [How To Write A Research Paper In Machine Learning](https://grigorisg9gr.github.io/machine%20learning/research%20paper/how-to-write-a-research-paper-in-machine-learning
+* [Guidelines for Writing a Good NIPS Paper](https://nips.cc/Conferences/2015/PaperInformation/EvaluationCriteria#:~:text=Speech%20and%20Signal%20Processing&text=The%20quality%20bar%20for%20NIPS,acceptance%20rate%20is%20about%20half.)
