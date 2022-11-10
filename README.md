@@ -18,6 +18,7 @@ Useful notes for pursing Ph.D.
 * [What I Wish I Had Known Early in Graduate School but Didn’t](http://idm-lab.org/advice.html)
 * [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://icrrd.com/media/01-11-2020-212827The%207%20Habits%20of%20Highly%20Effective%20People.pdf)
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+* [Graduate School Survival Guide](http://faculty.washington.edu/wpratt/survive.htm)
 
 
 ## Paper
@@ -25,5 +26,5 @@ Useful notes for pursing Ph.D.
 * [How to Write a Machine Learning Paper for (not so) Dummies](https://icml.cc/Conferences/2002/craft.html)
 * [How to Read a Paper](https://dl.acm.org/doi/pdf/10.1145/1273445.1273458)
 * [On writing](http://users.ece.utexas.edu/~patt/writing/)
-* [How To Write A Research Paper In Machine Learning](https://grigorisg9gr.github.io/machine%20learning/research%20paper/how-to-write-a-research-paper-in-machine-learning
+* [How To Write A Research Paper In Machine Learning](https://grigorisg9gr.github.io/machine%20learning/research%20paper/how-to-write-a-research-paper-in-machine-learning)
 * [Guidelines for Writing a Good NIPS Paper](https://nips.cc/Conferences/2015/PaperInformation/EvaluationCriteria#:~:text=Speech%20and%20Signal%20Processing&text=The%20quality%20bar%20for%20NIPS,acceptance%20rate%20is%20about%20half.)
