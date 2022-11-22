@@ -28,3 +28,9 @@ Useful notes for pursing Ph.D.
 * [On writing](http://users.ece.utexas.edu/~patt/writing/)
 * [How To Write A Research Paper In Machine Learning](https://grigorisg9gr.github.io/machine%20learning/research%20paper/how-to-write-a-research-paper-in-machine-learning)
 * [Guidelines for Writing a Good NIPS Paper](https://nips.cc/Conferences/2015/PaperInformation/EvaluationCriteria#:~:text=Speech%20and%20Signal%20Processing&text=The%20quality%20bar%20for%20NIPS,acceptance%20rate%20is%20about%20half.)
+
+## Letter of recommendation
+* [Advice to Graduate School Recommendation Letter Writers](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
+* [Recommendation Letter from Me](https://cs.brown.edu/~sk/Memos/Reco-From-Me/)
+* [How to write good letters of recommendation](https://mitadmissions.org/apply/parents-educators/writingrecs/)
+* [https://career.berkeley.edu/Info/LetterGuidelines#academic](https://career.berkeley.edu/Info/LetterGuidelines#academic)
