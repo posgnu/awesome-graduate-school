@@ -33,4 +33,9 @@ Useful notes for pursing Ph.D.
 * [Advice to Graduate School Recommendation Letter Writers](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
 * [Recommendation Letter from Me](https://cs.brown.edu/~sk/Memos/Reco-From-Me/)
 * [How to write good letters of recommendation](https://mitadmissions.org/apply/parents-educators/writingrecs/)
-* [https://career.berkeley.edu/Info/LetterGuidelines#academic](https://career.berkeley.edu/Info/LetterGuidelines#academic)
+* [Guidelines For Writing Letters of Recommendation](https://career.berkeley.edu/Info/LetterGuidelines#academic)
+
+## SOP
+* [Writing a Compelling Statement of Purpose](https://sfp.caltech.edu/documents/20209/WritingCompellingSOP_HWC_FUTURE2021.pdf)
+* [Approaching the Graduate School Statement of Purpose](https://future.cce.caltech.edu/documents/16422/Statement_of_purpose_handout_2017_1.pdf)
+* [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
