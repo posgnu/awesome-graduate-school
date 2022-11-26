@@ -34,6 +34,7 @@ Useful notes for pursing Ph.D.
 * [Recommendation Letter from Me](https://cs.brown.edu/~sk/Memos/Reco-From-Me/)
 * [How to write good letters of recommendation](https://mitadmissions.org/apply/parents-educators/writingrecs/)
 * [Guidelines For Writing Letters of Recommendation](https://career.berkeley.edu/Info/LetterGuidelines#academic)
+* [A Princeton CS Major's Guide to Applying to Graduate School](https://www.cs.princeton.edu/academics/ugradpgm/gsg#Intent)
 
 ## SOP
 * [Writing a Compelling Statement of Purpose](https://sfp.caltech.edu/documents/20209/WritingCompellingSOP_HWC_FUTURE2021.pdf)
