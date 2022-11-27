@@ -40,3 +40,6 @@ Useful notes for pursing Ph.D.
 * [Writing a Compelling Statement of Purpose](https://sfp.caltech.edu/documents/20209/WritingCompellingSOP_HWC_FUTURE2021.pdf)
 * [Approaching the Graduate School Statement of Purpose](https://future.cce.caltech.edu/documents/16422/Statement_of_purpose_handout_2017_1.pdf)
 * [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+* [How to Write a Bad Statement for a Computer Science Ph.D. Admissions Application](https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html)
+* [Note: these tips are intended for students applying to CS/ECE programs.](https://users.ece.cmu.edu/~mabdelm/statement-of-purpose-tips.html)
+* [Writing Your Graduate School Application Essay](https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/grad-app-sop.pdf)
