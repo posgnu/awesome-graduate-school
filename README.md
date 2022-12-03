@@ -1,5 +1,5 @@
-# phd-note
-Useful notes for pursing Ph.D.
+# Awesome Graduate School [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/)
+
 
 ## General
 
