@@ -19,6 +19,7 @@
 * [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://icrrd.com/media/01-11-2020-212827The%207%20Habits%20of%20Highly%20Effective%20People.pdf)
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [Graduate School Survival Guide](http://faculty.washington.edu/wpratt/survive.htm)
+* [Syllabus for Eric's PhD students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 
 
 ## Paper
